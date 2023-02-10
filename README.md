@@ -78,8 +78,9 @@ dev_dependencies:
 Download or clone this repo by using the link below:
 
 ```
-https://github.com/osamasabry9/Flutter_ChatGPT.git
+https://github.com/AHMEDMabdelmo3ty/Flutter_ChatGPT_task
 ```
+
 
 **Step 2:**
 
